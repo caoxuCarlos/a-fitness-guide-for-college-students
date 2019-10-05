@@ -38,7 +38,7 @@
 
 平板和地面的夹角大概是30°, 角度太大 (比如60°) 的时候, [三角肌前束](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/Deltoid-toe.png?raw=true)会参加发力, 再一次, 我们的原则是**不借力, 少借力**, 不管做什么动作, 一定要把这句话记牢, 直到在大脑皮层上形成一个 "深深的沟回". 
 
-同样的, 慢放, 快收缩, 停顿.
+同样地, 慢放, 快收缩, 停顿.
 
 ![](https://github.com/caoxuCarlos/a-fitness-guide-for-college-students/blob/master/images/action/pectoralis-major/dumbbell-press2.gif?raw=true)
 
